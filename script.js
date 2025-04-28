@@ -1,4 +1,5 @@
 //Initial References
+let key = "617c244c";
 let movieNameRef = document.getElementById("movie-name");
 let searchBtn = document.getElementById("search-btn");
 let result = document.getElementById("result");
